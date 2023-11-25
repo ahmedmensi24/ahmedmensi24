@@ -10,14 +10,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
                   
                   
                 <p align="left">
-                      <a href="https://www.facebook.com/https://www.facebook.com/ahmed.menssi.96/" target="_blank" rel="noreferrer">
+                      <a href="https://www.facebook.com/ahmed.menssi.96/" target="_blank" rel="noreferrer">
                     <picture>
                     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" />
                     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" />
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" />
                     </picture>
                     </a>
-                      <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/ahmed-mensi-132ba5212?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noreferrer">
+                      <a href="https://www.linkedin.com/in/ahmed-mensi-132ba5212?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noreferrer">
                     <picture>
                     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
                     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
